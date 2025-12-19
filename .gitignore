@@ -36,4 +36,5 @@ Thumbs.db
 .coverage
 coverage.xml
 htmlcov/
-best_model.pkl
+# Ignore model artifacts (large pickled models)
+ensemble_model.pkl
