@@ -39,3 +39,4 @@ htmlcov/
 # Ignore model artifacts (large pickled models)
 ensemble_model.pkl
 best_model.pkl
+*.pkl
